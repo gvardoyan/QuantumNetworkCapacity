@@ -2,7 +2,7 @@
 
 - computeNetCap.m computes the overall network capacity. SURFnet is provided as an example; snapshot capacity data for this network is stored in SURFNetExp/. 
 
-- Code files are divided into two sets: those that use gurobi optimization and brute-force code that was used to validate gurobi results.
+- Code files are divided into two sets: those that use gurobi optimization and brute-force code that was used to validate gurobi results. Brute-force code has two versions: one for multiplexed (computeSnapshotCapMult.py), and one for non-multiplexed networks (computeSnapshotCap.py).
 
 - Data for the five-node multiplexed network is provided in FiveNodeExpMultiplexing/.
 
