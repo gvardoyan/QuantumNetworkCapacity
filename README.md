@@ -7,7 +7,7 @@
 - Data for the five-node multiplexed network is provided in FiveNodeExpMultiplexing/.
 
 - Example network capacity computation using SURF:
-  -- Create a local SURFNetExp/ directory
-  -- Run SURFNetExp.py
+  (1) Create a local SURFNetExp/ directory,
+  (2) Run SURFNetExp.py
 
 - To run gurobi optimization software, a gurobi install is required.
